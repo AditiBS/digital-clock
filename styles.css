@@ -1,0 +1,15 @@
+body {
+  background-color: #cda6a6;
+  color: #82151d;
+  font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.clock {
+  font-size: 80px;
+  letter-spacing: 10px;
+}
