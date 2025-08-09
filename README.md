@@ -19,8 +19,11 @@ A simple digital clock built with HTML, CSS, and JavaScript that displays the cu
 
 /digital-clock/
 │
+
 ├── index.html
+
 ├── styles.css
+
 └── script.js
 
 ## Screenshots
@@ -33,5 +36,9 @@ A simple digital clock built with HTML, CSS, and JavaScript that displays the cu
 - HTML5
 - CSS3
 - JavaScript
+
+## Live Demo
+
+https://aditibs.github.io/digital-clock/
 
 
