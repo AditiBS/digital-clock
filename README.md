@@ -18,6 +18,7 @@ A simple digital clock built with HTML, CSS, and JavaScript that displays the cu
 ## Project Structure
 
 /digital-clock/
+
 │
 
 ├── index.html
